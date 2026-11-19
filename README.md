@@ -151,4 +151,4 @@ For security and compliance reviews, see [Security and Trust](https://github.com
 
 ## License
 
-Open source, [Apache-2.0](https://github.com/IBM/aspera-cli/blob/main/LICENSE), by IBM+.
+Open source, [Apache-2.0](https://github.com/IBM/aspera-cli/blob/main/LICENSE), by IBM.
